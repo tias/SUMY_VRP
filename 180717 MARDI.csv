@@ -1,0 +1,45 @@
+order,stop type,active,wait,reference,name
+1,visit,1,,JET,TFCO JETte
+2,visit,1,,AAL,TFCO AAL
+3,visit,1,,GEL1,TFCO GENT
+4,visit,1,,LINDD,LINDD
+5,visit,1,,KOR1,TFCO KOR
+6,visit,1,,DATSGRIM1,DATS GRIMBERGEN
+1,visit,1,,FARM FC-IXL1,FARM FC-IXL
+2,visit,1,,SUMY60e,SUMY 1H
+3,visit,1,,FARMstc,FARM ST CATH
+4,visit,1,,SUMY3HB,SUMY 1H
+5,visit,1,,STO2,TFCO STOckel
+6,visit,1,,OVE1,TFCO OVErijse
+7,visit,1,,DATSOVE1,Dats Overijse
+8,visit,1,,LH1,TFCO LH Hulpe
+9,visit,1,,WAV1,TFCO WAVRE
+10,visit,1,,FARMlln,FARM LLN
+11,visit,1,,FARM TONGRES,FARM TONGRES
+12,visit,1,,DATSGRIM,DATS GRIMBERGEN
+1,visit,1,,FARM HANKAR,FARM HANKAR
+2,visit,1,,Sumy1hE,SUMY 1H
+3,visit,1,,FARM TONGRES1,FARM TONGRES
+4,visit,1,,SUMY60b,SUMY 1H
+5,visit,1,,TFCO SABLON,TFCO SABLON
+6,visit,1,,IXL,TFCO IXL
+7,visit,1,,VDK,TFCO VDK
+8,visit,1,,FARbs,FARM BASCULE
+1,visit,1,,WGH,TFCO WGH
+2,visit,1,,AUDvid,TFCO AUD
+3,visit,1,,SUMY60a,SUMY 1H
+4,visit,1,,OM2,OCEAN MAREE
+5,visit,1,,MCH,TFCO MA Malines
+6,visit,1,,DATSMAL1,Dats MALINES
+7,visit,1,,,TFCO ANV VOLK
+8,visit,1,,400,BIA MARA ANVERS
+9,visit,1,,BRA,TFCO ANV BRASSCHAT
+1,visit,1,,LEU,TFCO LEUVEN
+2,visit,1,,LGG,TFCO LIEGE
+3,visit,1,,,TFCO GERPINNES
+4,visit,1,,DatsWater,Dats Waterloo
+5,visit,1,,WOO,TFCO WOO Waterloo
+6,visit,1,,UVO,TFCO UVO
+1,visit,1,,NosPilifs1,NOS PILIFS
+2,visit,1,,357715c,OCEAN MAREE
+3,visit,1,,,Actiris

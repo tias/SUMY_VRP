@@ -1,0 +1,33 @@
+reference plan,plan,route,vehicle,order,stop type,active,wait,time,distance,drive time,out of visit time window,out of capacity,out of vehicle time shift,out of work time,maximum achievable distance,status,eta,reference,name,street,detail,postalcode,city,country,lat,lng,comment,phone,tags,reference visit,visit duration,open 1,close 1,open 2,close 2,priority,tags visit,quantity[colis],operation[colis]
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,0,store,,,1:00,0,0,,,,,,,,,SUMY,avenue de bejar laan 1EA,,1120,neder over hembeek,,50.911043,4.403273,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,1,visit,1,,1:16,16321.9,971,,,,,,,,,TFCO WGH,Avenue Georges Henri 205,,1200,,,50.84471,4.41684,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,2,visit,1,,1:40,4197.9,538,,,,,,,,AUD,TFCO AUD,Square Jean Baptiste De Greef 2,,1160,Auderghem,,50.82046,4.40897,Livraison entre 19h et 6h,,TFCO,,0:30:00,,,,,,"TFCO,TFCO",,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,3,visit,1,,2:16,2913,397,,,,,,,,IXL,TFCO IXL,Avenue de l'hippodrome 75,,1050,Ixelles,,50.82027,4.37682,,,TFCO,,0:45:00,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,4,visit,1,,3:14,3488.8,767,,,,,,,,TFCO SABLON,TFCO SABLON,Rue Joseph Stevens 34,,1000,BRUXELLES,Belgique,50.84155,4.35337,,,,,0:20:00,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,5,visit,1,,3:58,6230.2,1441,,,,,,,,,TFCO JETte,Chausse de Wemmel 10,,1090,,,50.87324,4.32529,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,6,visit,1,,4:27,11310.2,830,,,,,,,,,SUMY 25 MIN 2,Avenue De Bjar 1AE,,1120,,,50.910867,4.403383,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,7,visit,1,,5:05,23712.8,1380,,,,,,,,FARM COOK2,FARM COOKING,avenue du Bois de la Cambre 49,,1050,Ixelles,Belgique,50.80935,4.3949999,Code Volet 8110,Louis  0473762212,FARM,,0:20:00,,,,,4,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,8,visit,1,,5:33,3357.4,470,,,,,,,,,FARM BASCULE,Rue Vanderkindere 546,,,,,50.814585,4.365606,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,9,visit,1,,5:58,2652.9,612,,,,,,,,,FARM FC-IXL,136 chausse d'Ixelles,,1050,,,50.83424,4.36542,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,10,visit,1,,6:33,4637.1,1204,,,,,,,,,TRAVIE (SEL),Rue du sel,,1070,Anderlecht,,50.834835,4.320311,"Code grille : 4142A
+Livraison Légume moche : Lundi soir et Mercredi soir 
+Chargement Soupe : Lundi soir et Mercredi soir 
+Livraison soupe vers 7 farm = mardi soir et jeudi soir 
+Reprise l
+egume moche quotidienne",475401413,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,11,visit,1,,7:09,19042.4,1233,,,,,,,,NosPil2,NOS PILIFS,Trassersweg 347,,1120,Neder over heembeek,,50.90368,4.38881,,,Nos Pilifs,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,12,visit,1,,7:34,9819.1,649,,,,,,,,,Sodexo EUROCONTROL,Rue de la Fusée 96,,1130,Bruxelles,,50.882949,4.43322,Avant 10h,0497/56 58 83,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,13,visit,1,,7:56,3389.3,394,,,,,,,,DATSNato,Dats NATO,Oude Hachtsesteenweg 7,,1831,Machelen,,50.89316,4.43101,,,,,,,,,,,,,
+,DIMANCHE 24.03,T2V2 YUNUS - ABDOULAYE,,14,store,,,8:20,4588.2,552,,,,,,,,,SUMY,avenue de bejar laan 1EA,,1120,neder over hembeek,,50.911043,4.403273,,,,,,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,0,store,,,1:00,0,0,,,,,,,,,SUMY,avenue de bejar laan 1EA,,1120,neder over hembeek,,50.911043,4.403273,,,,,,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,1,visit,1,,2:07,96467.2,4059,,,,,,,,LGG,TFCO LIEGE,74 Rue des Guillemins,,4000,liege,,50.62798,5.56695,,,TFCO,,0:20:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,2,visit,1,,3:38,100671.3,4247,,,,,,,,GP,TFCO GERPINNES,rue neuve 2,,6280,gerpinnes,,50.343653,4.472487,,,TFCO,,,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,3,visit,1,,4:35,49195.9,2508,,,,,,,,DatsWater,Dats Waterloo,CHAUSSEE DE TUBIZE 489,,1420,Braine-l'Alleud,,50.69076,4.32587,,,Dats,,0:10:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,4,visit,1,,4:56,7051.2,680,,,,,,,,WOO1,TFCO WOO Waterloo,Chaussée de Bruxelles 184,,1410,Waterloo,,50.7206199,4.39757,,,TFCO,,0:15:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,5,visit,1,,5:25,8604.3,858,,,,,,,,UVO,TFCO UVO,Chaussée de Waterloo 1223,,1180,Uccle,,50.7946,4.37342,Livraison entre 19h et 6h,,TFCO,,0:20:00,,,,,,TFCO,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,6,visit,1,,5:52,3011.4,370,,,,,,,,,TFCO VDK,Rue Vanderkindere 367,,1180,,,50.81422,4.35891,,,,,,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,7,visit,1,,6:33,21681.3,1588,,,,,,,,SUMY15c,SUMY 15 MIN 3,Avenue De Béjar 1AE,,1120,neder over hembeek,,50.911043,4.403318,,,Sumy,,0:15:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,8,visit,1,,7:22,39842.8,2052,,,,,,,,FARMlln,FARM LLN,Traverse d'Esope,,1348,Ottignies,,50.6689,4.61494,CODE:1254,,FARM,,0:20:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,9,visit,1,,8:15,36328.5,1961,,,,,,,,,FARM MEISER,Avenue Rogier 383,,1030,Bruxelles,,50.85543,4.3951399,Code 1207,,,,0:45:00,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,10,visit,1,,9:19,18184.3,1138,,,,,,,,DATSGRIM,DATS GRIMBERGEN,Vilvoordsesteenweg 301,,,,,50.92705,4.3914,,,,,,,,,,,,,
+,DIMANCHE 24.03,T3V4 JAFFE - MYKHA,,11,store,,,9:44,5148.4,587,,,,,,,,,SUMY,avenue de bejar laan 1EA,,1120,neder over hembeek,,50.911043,4.403273,,,,,,,,,,,,,
